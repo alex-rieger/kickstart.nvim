@@ -3,7 +3,7 @@
 --
 -- See the kickstart.nvim README for more information
 
-require 'custom.plugins.gruvbox'
+require 'custom.plugins.rose-pine'
 
 vim.opt.number = true
 vim.opt.relativenumber = true
